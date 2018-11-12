@@ -1,0 +1,10 @@
+# directories
+.idea
+
+# User-specific stuff
+
+# Generated files
+.idea/**/contentModel.xml
+
+# File-based project format
+*.pyc
